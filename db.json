@@ -1,0 +1,52 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "title": "Nike Air Max 270",
+      "description": "Breathable mesh upper and comfortable Max Air cushioning for all-day wear.",
+      "price": 90
+    },
+    {
+      "id": 2,
+      "title": "Adidas Ultraboost 21",
+      "description": "The iconic running shoe with a boost of energy return in every step.",
+      "price": 180
+    },
+    {
+      "id": 3,
+      "title": "Puma RS-X3",
+      "description": "Bold design with retro vibes and lightweight cushioning.",
+      "price": 120
+    },
+    {
+      "id": 4,
+      "title": "New Balance 574",
+      "description": "Classic style meets modern comfort for a timeless look.",
+      "price": 80
+    },
+    {
+      "id": 5,
+      "title": "Converse Chuck Taylor All Star",
+      "description": "The iconic canvas high-top sneakers, a staple in casual footwear.",
+      "price": 60
+    },
+    {
+      "id": 6,
+      "title": "Vans Old Skool",
+      "description": "Classic low-top skate shoes with durable suede and canvas uppers.",
+      "price": 65
+    },
+    {
+      "id": 7,
+      "title": "Reebok Club C 85",
+      "description": "A retro tennis shoe with soft leather upper and iconic style.",
+      "price": 75
+    },
+    {
+      "id": 8,
+      "title": "ASICS Gel-Kayano 27",
+      "description": "Premium stability running shoe with responsive cushioning and support.",
+      "price": 160
+    }
+  ]
+}
